@@ -22,7 +22,7 @@ public class Menus {
                     *********************************
                     
                     En Gutendex:
-                    1 - Buscar libro por título 
+                    1 - Buscar libro por título
                     
                     En la Base de Datos:
                     2 - Listar libros registrados
