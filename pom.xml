@@ -35,7 +35,7 @@
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
 
-<<<<<<< HEAD
+
 		<!-- Jackson Core -->
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
@@ -57,8 +57,6 @@
 			<version>2.16.0</version>
 		</dependency>
 
-=======
->>>>>>> e65ddec91a6f3d4754b0b55cc86159c9a47de97e
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
