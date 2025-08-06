@@ -158,7 +158,72 @@ Presiona 'c' para continuar o 'q' para salir.
 ```
 
 ---
+## 🔧 Instalación y ejecución
 
+### 1️⃣ Clona el repositorio
+
+```bash
+git clone https://github.com/gezcarlos22/Literatura.git
+cd Literatura
+```
+
+---
+
+### 2️⃣ Configuración de PostgreSQL
+
+Crea una base de datos llamada `literatura` y configura las credenciales en:
+
+`src/main/resources/application.properties`
+
+```properties
+spring.datasource.url=jdbc:postgresql://localhost:5432/literatura
+spring.datasource.username=tu_usuario_postgres
+spring.datasource.password=tu_contraseña
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+```
+
+---
+
+### 3️⃣ Ejecución del proyecto
+
+#### 🔹 Opción A: Con Maven Wrapper
+
+```bash
+# Linux/Mac
+./mvnw spring-boot:run
+
+# Windows
+mvnw.cmd spring-boot:run
+```
+
+#### 🔹 Opción B: Con Maven instalado
+
+```bash
+mvn spring-boot:run
+```
+
+#### 🔹 Opción C: Desde tu IDE
+
+1. Abre el proyecto en IntelliJ IDEA o Eclipse.  
+2. Ejecuta la clase principal:  
+   `LiteraturaBackEndApplication.java`
+
+---
+
+### 4️⃣ Acceso a la aplicación
+
+Una vez iniciada, la interfaz de consola estará disponible directamente en tu terminal.
+
+---
+
+💡 **Nota**: Asegúrate de tener instalado:
+
+- Java 21 o superior  
+- PostgreSQL 12+ en ejecución  
+- Maven (si no usas el wrapper)
+
+---
 ## Construido con 🛠️
 
 * [Java 21](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) - Lenguaje de programación  
