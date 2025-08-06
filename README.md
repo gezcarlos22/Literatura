@@ -18,7 +18,10 @@ Desarrollada en Java 21 con Spring Boot, esta aplicación es una solución profe
 Al iniciar la aplicación, verás este menú interactivo:
 
 ```
-Menú Principal
+*********************************
+*     LITERATURA GUNTENDEX      *
+*********************************
+
 En Gutendex:
 1 - Buscar libro por título
 
