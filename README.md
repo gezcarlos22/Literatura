@@ -1,3 +1,6 @@
+<img width="909" height="246" alt="image" src="https://github.com/user-attachments/assets/5b30e479-37ee-4303-85f1-e013cd8c9357" />
+
+
 # Literatura Gutendex
 
 Desarrollada en Java 21 con Spring Boot, esta aplicación es una solución profesional para explorar y gestionar literatura clásica. Integra la API de Gutendex para acceder a una extensa colección de libros y autores. Ideal para amantes de la literatura, investigadores y curiosos, ofrece funciones de búsqueda avanzada, filtrado por idiomas y gestión de datos locales.
