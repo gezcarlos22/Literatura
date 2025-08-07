@@ -1,5 +1,4 @@
-<img width="909" height="246" alt="image" src="https://github.com/user-attachments/assets/5b30e479-37ee-4303-85f1-e013cd8c9357" />
-
+<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/9c243560-21fc-4901-986f-74526771de51" />
 
 # Literatura Gutendex
 
